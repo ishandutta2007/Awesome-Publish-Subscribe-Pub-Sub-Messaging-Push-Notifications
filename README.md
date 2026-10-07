@@ -59,82 +59,82 @@ Whether you are scaling high-throughput event-driven microservices with Kafka/NA
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source ecosystem provides robust, self-hosted building blocks for pub/sub event streaming and notification delivery. Below projects are categorized and sorted by **GitHub Stars (descending)**.
+The open-source ecosystem provides robust, self-hosted building blocks for pub/sub event streaming and notification delivery. Below projects are categorized and sorted by **GitHub_Stars (descending)**.
 
 ### ⚡ Notification Infrastructure
 
-- **[Novu](https://github.com/novuhq/novu)** [![GitHub Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+- **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
   **The leading open-source notification infrastructure platform** (MIT License). Unified API for email, SMS, push, in-app inbox, Slack, Teams, Discord, and WhatsApp. Features a visual drag-and-drop workflow editor, conditions, delays, digest engine, embeddable notification center, and subscriber preference management.
 
-- **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers)  
+- **[ntfy](https://github.com/binwiederhier/ntfy)** [![GitHub_Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers)  
   **Simple HTTP-based pub/sub notification service** (Apache-2.0 / GPL-2.0). Send desktop and mobile push notifications via simple `PUT`/`POST` requests with Android/iOS apps and Web UI support.
 
-- **[Apprise](https://github.com/caronc/apprise)** [![GitHub Stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers)  
+- **[Apprise](https://github.com/caronc/apprise)** [![GitHub_Stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers)  
   **Push notification wrapper library for 100+ services** (MIT License). Provides a unified Python API and CLI to trigger notifications across Telegram, Discord, Slack, SMS, Email, and custom webhooks.
 
-- **[Gotify](https://github.com/gotify/server)** [![GitHub Stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers)  
+- **[Gotify](https://github.com/gotify/server)** [![GitHub_Stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers)  
   **Self-hosted push notification server** (MIT License). Real-time message push server with REST Web APIs, web interface, and native Android application client.
 
-- **[Notifire](https://github.com/notifirehq/notifire)** [![GitHub Stars](https://img.shields.io/github/stars/notifirehq/notifire?style=social&color=white)](https://github.com/notifirehq/notifire/stargazers)  
+- **[Notifire](https://github.com/notifirehq/notifire)** [![GitHub_Stars](https://img.shields.io/github/stars/notifirehq/notifire?style=social&color=white)](https://github.com/notifirehq/notifire/stargazers)  
   Predecessor open-source notification project, now merged into Novu core.
 
-- **[Notifuse](https://github.com/Notifuse/notifuse)** [![GitHub Stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)  
+- **[Notifuse](https://github.com/Notifuse/notifuse)** [![GitHub_Stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)  
   Open-source multi-channel notification engine for modern app development.
 
 ---
 
 ### 📡 Pub/Sub Messaging Platforms
 
-- **[Redis](https://github.com/redis/redis)** [![GitHub Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers)  
+- **[Redis](https://github.com/redis/redis)** [![GitHub_Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers)  
   **In-memory data structure store with native Pub/Sub** (BSD-3-Clause / Dual). Ultra-fast lightweight channels for real-time pub/sub messaging and memory caching.
 
-- **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)  
+- **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)  
   **Distributed event streaming platform** (Apache-2.0 License). Industry standard for high-throughput, fault-tolerant pub/sub message logging and persistent stream processing.
 
-- **[EMQX](https://github.com/emqx/emqx)** [![GitHub Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
+- **[EMQX](https://github.com/emqx/emqx)** [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)  
   **Scalable open-source MQTT broker** (Apache-2.0 License). High-performance pub/sub messaging server for IoT, IIoT, and connected vehicles.
 
-- **[NATS Server](https://github.com/nats-io/nats-server)** [![GitHub Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)  
+- **[NATS Server](https://github.com/nats-io/nats-server)** [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)  
   **Cloud-native messaging system** (Apache-2.0 License). Ultra-lightweight, extremely fast pub/sub core with JetStream engine for persistent stream storage.
 
-- **[Apache Pulsar](https://github.com/apache/pulsar)** [![GitHub Stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)  
+- **[Apache Pulsar](https://github.com/apache/pulsar)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)  
   **Distributed pub/sub messaging and streaming platform** (Apache-2.0 License). Designed for multi-tenancy, native geo-replication, and tiered storage backends.
 
-- **[RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)** [![GitHub Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)  
+- **[RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)** [![GitHub_Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)  
   **Multi-protocol message broker** (MPL-2.0 License). Robust messaging support for AMQP, MQTT, STOMP, and flexible exchange pub/sub patterns.
 
-- **[Centrifugo](https://github.com/centrifugal/centrifugo)** [![GitHub Stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)  
+- **[Centrifugo](https://github.com/centrifugal/centrifugo)** [![GitHub_Stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)  
   **Scalable real-time messaging server** (Apache-2.0 License). Language-agnostic WebSocket, HTTP-streaming, SSE, and gRPC pub/sub server with channel presence & history.
 
-- **[Eclipse Mosquitto](https://github.com/eclipse/mosquitto)** [![GitHub Stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers)  
+- **[Eclipse Mosquitto](https://github.com/eclipse/mosquitto)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse/mosquitto?style=social&color=white)](https://github.com/eclipse/mosquitto/stargazers)  
   **Lightweight MQTT message broker** (EPL-2.0 / EDL-1.0). Ideal for low-power IoT messaging and edge pub/sub architectures.
 
-- **[Mercure](https://github.com/dunglas/mercure)** [![GitHub Stars](https://img.shields.io/github/stars/dunglas/mercure?style=social&color=white)](https://github.com/dunglas/mercure/stargazers)  
+- **[Mercure](https://github.com/dunglas/mercure)** [![GitHub_Stars](https://img.shields.io/github/stars/dunglas/mercure?style=social&color=white)](https://github.com/dunglas/mercure/stargazers)  
   **Server-Sent Events (SSE) real-time pub/sub hub** (AGPL-3.0 License). Built-in authorization, HTTP/2 & HTTP/3 native push protocol for web apps.
 
 ---
 
 ### 📲 Push Notification Services & Libraries
 
-- **[web-push](https://github.com/web-push-libs/web-push)** [![GitHub Stars](https://img.shields.io/github/stars/web-push-libs/web-push?style=social&color=white)](https://github.com/web-push-libs/web-push/stargazers)  
+- **[web-push](https://github.com/web-push-libs/web-push)** [![GitHub_Stars](https://img.shields.io/github/stars/web-push-libs/web-push?style=social&color=white)](https://github.com/web-push-libs/web-push/stargazers)  
   **Web Push library for Node.js** (MIT License). Enables sending VAPID-encrypted push notifications directly to browser push services (W3C Web Push standard).
 
-- **[Pushgateway](https://github.com/prometheus/pushgateway)** [![GitHub Stars](https://img.shields.io/github/stars/prometheus/pushgateway?style=social&color=white)](https://github.com/prometheus/pushgateway/stargazers)  
+- **[Pushgateway](https://github.com/prometheus/pushgateway)** [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/pushgateway?style=social&color=white)](https://github.com/prometheus/pushgateway/stargazers)  
   **Prometheus metrics push acceptor** (Apache-2.0 License). Allows ephemeral and batch jobs to push metrics to Prometheus monitoring stacks.
 
-- **[pywebpush](https://github.com/web-push-libs/pywebpush)** [![GitHub Stars](https://img.shields.io/github/stars/web-push-libs/pywebpush?style=social&color=white)](https://github.com/web-push-libs/pywebpush/stargazers)  
+- **[pywebpush](https://github.com/web-push-libs/pywebpush)** [![GitHub_Stars](https://img.shields.io/github/stars/web-push-libs/pywebpush?style=social&color=white)](https://github.com/web-push-libs/pywebpush/stargazers)  
   **Web Push library for Python** (MPL-2.0 License). Python implementation of Web Push protocol with VAPID authentication support.
 
-- **[PushSharp](https://github.com/Redth/PushSharp)** [![GitHub Stars](https://img.shields.io/github/stars/Redth/PushSharp?style=social&color=white)](https://github.com/Redth/PushSharp/stargazers)  
+- **[PushSharp](https://github.com/Redth/PushSharp)** [![GitHub_Stars](https://img.shields.io/github/stars/Redth/PushSharp?style=social&color=white)](https://github.com/Redth/PushSharp/stargazers)  
   Legacy .NET client library for APNs, FCM, and GCM push notifications (Archived).
 
 ---
 
 ### 📟 Specialized Brokers & Transport Protocol Engines
 
-- **[NATS.io Go Client](https://github.com/nats-io/nats.go)** [![GitHub Stars](https://img.shields.io/github/stars/nats-io/nats.go?style=social&color=white)](https://github.com/nats-io/nats.go/stargazers) — High-performance Go client for NATS pub/sub.
-- **[Gorush](https://github.com/appleboy/gorush)** [![GitHub Stars](https://img.shields.io/github/stars/appleboy/gorush?style=social&color=white)](https://github.com/appleboy/gorush/stargazers) — Go-based push notification server using APNs2 and FCM.
-- **[UnifiedPush](https://github.com/UnifiedPush/common-proxies)** [![GitHub Stars](https://img.shields.io/github/stars/UnifiedPush/common-proxies?style=social&color=white)](https://github.com/UnifiedPush/common-proxies/stargazers) — De-googled, decentralized push notification standard for Android & Linux.
+- **[NATS.io Go Client](https://github.com/nats-io/nats.go)** [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats.go?style=social&color=white)](https://github.com/nats-io/nats.go/stargazers) — High-performance Go client for NATS pub/sub.
+- **[Gorush](https://github.com/appleboy/gorush)** [![GitHub_Stars](https://img.shields.io/github/stars/appleboy/gorush?style=social&color=white)](https://github.com/appleboy/gorush/stargazers) — Go-based push notification server using APNs2 and FCM.
+- **[UnifiedPush](https://github.com/UnifiedPush/common-proxies)** [![GitHub_Stars](https://img.shields.io/github/stars/UnifiedPush/common-proxies?style=social&color=white)](https://github.com/UnifiedPush/common-proxies/stargazers) — De-googled, decentralized push notification standard for Android & Linux.
 
 ---
 
